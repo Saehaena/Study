@@ -2,7 +2,6 @@ VendingMachine/.vsconfig
 VendingMachine/.collabignore
 /VendingMachine/Library
 /VendingMachine/Logs
-/VendingMachine/Packages
 /VendingMachine/ProjectSettings
 /VendingMachine/UserSettings
 /VendingMachine/Temp
